@@ -1,0 +1,45 @@
+PODS:
+  - Alamofire (5.0.2)
+  - AlamofireImage (4.0.2):
+    - Alamofire (< 6.0.0, >= 5.0.2)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - Realm (4.3.2):
+    - Realm/Headers (= 4.3.2)
+  - Realm/Headers (4.3.2)
+  - RealmSwift (4.3.2):
+    - Realm (= 4.3.2)
+  - SwiftyJSON (4.3.0)
+  - ViewAnimator (2.7.0)
+
+DEPENDENCIES:
+  - Alamofire (>= 5.0.1)
+  - AlamofireImage (~> 4.0)
+  - NVActivityIndicatorView
+  - RealmSwift
+  - SwiftyJSON (~> 4.0)
+  - ViewAnimator (~> 2.7.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - NVActivityIndicatorView
+    - Realm
+    - RealmSwift
+    - SwiftyJSON
+    - ViewAnimator
+
+SPEC CHECKSUMS:
+  Alamofire: 3ba7a4db18b4f62c4a1c0e1cb39d7f3d52e10ada
+  AlamofireImage: ca7325440303d041a80b7caa55066ba945522378
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  Realm: 5e92902e2875dff4bb0fd02f67bb737c3d5db2bc
+  RealmSwift: 9a360fc7bae04fc2e308a34fbd899d5faa2d6b22
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  ViewAnimator: 5af1c6f3b310f012bf081259c43717aa54fbae73
+
+PODFILE CHECKSUM: 56c323f24275c441f5102a833569fb29c6e76fee
+
+COCOAPODS: 1.8.4
